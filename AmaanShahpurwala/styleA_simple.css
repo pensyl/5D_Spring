@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+@charset "utf-8"; 
+/* CSS Document */
+
+.header {
+	width:900px;
+	height:50px;
+	margin-right:auto;
+	background-color: #367;
+}
+
+#outer {
+	width: 400px;
+	height: 400px;
+	margin-top: 100px; margin-right: 100px; margin-left: 100px;
+	float: left;
+	background: #ABEBC6;
+}
+
+.container {
+	width: 600px;
+	height: 600px;
+	float: left; 
+	background: #27AE60
+}
+
+#inner-container {
+	width:200px;
+	height:200px;
+	float:none;
+	margin:auto;
+	margin-top:100px;
+	border:1px solid white;
+	background-color:green;
+}
+
+.column {
+	width:225px;
+	height:600px;
+	margin-left:75px;
+	float:left;
+	background-color: #3498DB;
+=======
+@charset "utf-8"; 
+/* CSS Document */
+
+.header {
+	width:900px;
+	height:50px;
+	margin-right:auto;
+	background-color: #367;
+}
+
+#outer {
+	width: 400px;
+	height: 400px;
+	margin-top: 100px; margin-right: 100px; margin-left: 100px;
+	float: left;
+	background: #ABEBC6;
+}
+
+.container {
+	width: 600px;
+	height: 600px;
+	float: left; 
+	background: #27AE60
+}
+
+#inner-container {
+	width:200px;
+	height:200px;
+	float:none;
+	margin:auto;
+	margin-top:100px;
+	border:1px solid white;
+	background-color:green;
+}
+
+.column {
+	width:225px;
+	height:600px;
+	margin-left:75px;
+	float:left;
+	background-color: #3498DB;
+>>>>>>> 03d3336b9c14db91baddb22c6133da0f14ad31f3
+}

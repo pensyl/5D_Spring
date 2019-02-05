@@ -1,0 +1,197 @@
+<<<<<<< HEAD
+@charset "utf-8";
+
+.container {
+width: 600px;
+height: 600px;
+float: left;
+background: #400D2A; 
+}
+
+#outer {
+width: 400px;
+height: 400px;
+margin-top: 175px;
+margin-right: 100px;
+margin-left: 100px;
+float: left;
+background: #5A142A; 
+}
+
+#inner {
+width: 300px;
+height: 300px;
+margin-top: 75px;
+margin-right: 100px;
+margin-left: 50px;
+float: left;
+background: #8F1D2C; 
+}
+
+#inner2 {
+width: 200px;
+height: 200px;
+margin-top: 75px;
+margin-right: 50px;
+margin-left: 50px;
+float: left;
+background: #DB2B30; 
+}
+
+#sidebar {
+width: 400px;
+height: 600px;
+float: left;
+background: #EADFE6;
+margin-left: 25px;  
+}
+
+#footer {
+width: 1025px;
+height: 200px;
+float: left;
+background: #BBB3B8; 
+margin-top: 25px; 
+}
+
+.footertype{
+font-style:normal;
+font-weight: bold;
+font-family:"Arial",sans-serif;
+font-size: 100px;
+text-align: center;
+margin: auto;
+margin-top: 35px;
+width: 100%;
+padding: 10px;
+color: #400D2A;
+}
+
+
+.sidetype{
+font-style:normal;
+font-family:"Arial",sans-serif;
+font-weight: bold;
+font-size: 14pt;
+line-height: 125%;
+text-align: left;
+margin: auto;
+margin-top: 25px;
+width: 80%;
+padding: 10px;
+color: #5A142A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+@charset "utf-8";
+
+.container {
+width: 600px;
+height: 600px;
+float: left;
+background: #400D2A; 
+}
+
+#outer {
+width: 400px;
+height: 400px;
+margin-top: 175px;
+margin-right: 100px;
+margin-left: 100px;
+float: left;
+background: #5A142A; 
+}
+
+#inner {
+width: 300px;
+height: 300px;
+margin-top: 75px;
+margin-right: 100px;
+margin-left: 50px;
+float: left;
+background: #8F1D2C; 
+}
+
+#inner2 {
+width: 200px;
+height: 200px;
+margin-top: 75px;
+margin-right: 50px;
+margin-left: 50px;
+float: left;
+background: #DB2B30; 
+}
+
+#sidebar {
+width: 400px;
+height: 600px;
+float: left;
+background: #EADFE6;
+margin-left: 25px;  
+}
+
+#footer {
+width: 1025px;
+height: 200px;
+float: left;
+background: #BBB3B8; 
+margin-top: 25px; 
+}
+
+.footertype{
+font-style:normal;
+font-weight: bold;
+font-family:"Arial",sans-serif;
+font-size: 100px;
+text-align: center;
+margin: auto;
+margin-top: 35px;
+width: 100%;
+padding: 10px;
+color: #400D2A;
+}
+
+
+.sidetype{
+font-style:normal;
+font-family:"Arial",sans-serif;
+font-weight: bold;
+font-size: 14pt;
+line-height: 125%;
+text-align: left;
+margin: auto;
+margin-top: 25px;
+width: 80%;
+padding: 10px;
+color: #5A142A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 03d3336b9c14db91baddb22c6133da0f14ad31f3

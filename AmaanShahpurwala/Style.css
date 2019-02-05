@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+@charset "utf-8"; /* CSS Document */
+
+.container {
+width: 600px;
+height: 600px;
+float: left; /*see below for description of float*/
+background: #00F; /*blue*/ }
+
+#outer {
+width: 400px;
+height: 400px;
+margin-top: 100px; margin-right: 100px; margin-left: 100px;
+float: left;
+=======
+@charset "utf-8"; /* CSS Document */
+
+.container {
+width: 600px;
+height: 600px;
+float: left; /*see below for description of float*/
+background: #00F; /*blue*/ }
+
+#outer {
+width: 400px;
+height: 400px;
+margin-top: 100px; margin-right: 100px; margin-left: 100px;
+float: left;
+>>>>>>> 03d3336b9c14db91baddb22c6133da0f14ad31f3
+background: #FF0; /*yellow*/ }
