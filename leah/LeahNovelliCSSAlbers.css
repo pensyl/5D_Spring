@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+p.label {
+    font-size: 12px;
+    line-height: 10px;
+    margin-bottom: 10px;
+    color: #FFC300;}
+
+
+#outer {
+width: 600px;
+height: 600px;
+float: left;
+margin-top: -12px;
+background: #FFC300;
+}
+
+#inner {
+width: 450px;
+height: 450px;
+float: left;
+margin-top: 110px;
+margin-right: 70px;
+margin-left: 70px;
+background: #FF1493; 
+}
+
+#innertwo {
+width: 350px;
+height: 350px;
+float: left;
+margin-top: 60px;
+margin-right: 90px;
+margin-left: 50px;
+background: #C71585; 
+}
+
+#innerthree {
+width: 200px;
+height: 200px;
+float: left;
+margin-top: 100px;
+margin-right: 50px;
+margin-left: 80px;
+background: #FF8C00; 
+}
+
+
+#PLEASEHELP {
+width: 1000px;
+height: 130px;
+float: left;
+margin-top: 320px;
+margin-right: 40px;
+margin-left: -200px;
+background: #778899;
+}
+
+#PLEASEHELP2 {
+width: 370px;
+height: 595px;
+float: left;
+margin-top: -620px;
+margin-right: 80px;
+margin-left: 630px;
+background: #696969;
+}
